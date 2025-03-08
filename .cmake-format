@@ -1,0 +1,15 @@
+line_width: 120
+tab_size: 4
+max_subargs_per_line: 5
+separate_ctrl_name_with_space: false
+separate_fn_name_with_space: false
+dangle_parens: true
+line_ending: unix
+command_case: lower
+keyword_case: upper
+enable_sort: true
+autosort: true
+
+enable_markup: false
+separate_multiline_arguments: true
+preserve_newlines: true
